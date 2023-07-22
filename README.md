@@ -1,16 +1,17 @@
-# mi_card_flutter
+# Mi Card
 
-A new Flutter project.
+Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Now you can get them to download your business card as an app.
 
-## Getting Started
+## What all did I learn through this project?
 
-This project is a starting point for a Flutter application.
+- How to create Stateless Widgets
+- What is the difference between hot reload and hot refresh and running an app from cold
+- How to use Containers to lay out my UI
+- How to use Columns and Rows to position my UI elements
+- How to add custom fonts
+- How to add Material icons
+- How to style Text widgets
+- How to read and use Flutter Documentation
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/kichuman28/Mi-Card-Flutter/assets/97717315/61bc82cc-932d-40de-a501-4a0ab9810498
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
